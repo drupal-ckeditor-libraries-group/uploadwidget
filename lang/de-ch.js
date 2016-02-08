@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md or http://ckeditor.com/license
  */
 
-CKEDITOR.plugins.setLang( 'uploadwidget', 'de', {
+CKEDITOR.plugins.setLang( 'uploadwidget', 'de-ch', {
 	abort: 'Hochladen durch den Benutzer abgebrochen.',
 	doneOne: 'Datei erfolgreich hochgeladen.',
 	doneMany: '%1 Dateien erfolgreich hochgeladen.',
